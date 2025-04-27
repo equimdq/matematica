@@ -48,6 +48,6 @@ Este código es de uso educativo y libre distribución.
 
 Enlaces: 
 
-GitHub: https://github.com/h-j-urich/Proyectos.git     
+GitHub: https://github.com/equimdq/matematica
 
 Youtube: 
